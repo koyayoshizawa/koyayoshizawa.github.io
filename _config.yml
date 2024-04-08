@@ -21,10 +21,10 @@ repository               : "koyayoshizawa/koyayoshizawa.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profile_yoshizawa.jpg"
   name             : "Koya YOSHIZAWA"
   pronouns         : # example: "she/her"  
-  bio              : "PhD student at Ryota UEHARA's lab, focusing on cell division machinery"
+  bio              : "PhD student in the laboratory of Ryota UEHARA"
   location         : "Sapporo, Japan"
   employer         : "Hokkaido University"
   uri              : # URL
