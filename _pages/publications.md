@@ -7,7 +7,7 @@ author_profile: true
 
 You can also find my articles at my [Google Scholar](https://scholar.google.com/citations?user=TYDv97QAAAAJ&hl=en).
 
-Updated at 2024/04/08
+Updated at 2024/04/08.
 <!-- Citation style is APA, fetched from Paperpile -->
 <!-- Add doi in the last part. -->
 
