@@ -20,7 +20,7 @@ Updated at 2024/04/08
 
 (# Equal contribution)
 
-## Conference Presentations
+## Talks
 
 1. **Yoshizawa, K.** & Uehara, R. (2023, November), Haploidy-linked insufficiency of pericentriolar material (PCM) protein causes a genome instability in human somatic cells [Poster presentation]. The 61st Annual Meeting of the Biophysical Society of Japan, Nagoya, Japan.
 1. **Yoshizawa, K.**, Matsura, A., Shimada, M., Ishida-Ishihara, S., Yamamoto, T., & Uehara, R. (2023, July), Ploidy-linked changes in dependency on mitotic motor proteins in human cell [Poster presentation]. The 49th Naito Conference on "Frontiers of Microtubule and Its-Related Motors: Atomic Structures, Cellular Functions, Development and Diseases", Sapporo, Japan.
