@@ -40,7 +40,7 @@ Skills
 
 Publications and talks
 ======
-Please see [Publication](/publications/).
+Please see [Publication](/publications/) and [Talks](/talks/).
 
 Grants
 ======
