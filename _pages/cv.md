@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+Updated at 2024/04/08
+
 Education
 ======
 - Since 2022: PhD in Life Science, in the group of Dr. Ryota Uehara at Hokkaido University, Japan.
