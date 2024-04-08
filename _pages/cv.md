@@ -30,23 +30,13 @@ Teaching
  
 Skills
 ======
-- Cell biology
-    - Basic cell culture
-    - Immunofluorescence
-    - Flow cytometry
-- Bioengineering
-    - Transfection (electroporation, chemical transfection)
-    - CRISPR-Cas9 (knockin, transcriptional activation)
-- Biochemistry
-    - Western blotting
-    - Immunoprecipitation
-- DNA work
-    - Basic plasmid cloning
-    - PCR
-- Programming (R, python, fortran, GitHub/Git, LaTeX)
+- Cell biology (basic cell culture, immunofluorescence, flow cytometry)
+- Bioengineering (electroporation, chemical transfection, CRISPR-Cas9 (knockin, transcriptional activation))
+- Biochemistry (western blotting, immunoprecipitation)
+- DNA work (basic plasmid cloning, PCR)
+- Programming (R, python, fortran, Git/GitHub, LaTeX)
 - Statistics
-- Mathematical modelling
-    - MATLAB
+- Mathematical modelling (MATLAB)
 
 Publications and talks
 ======
