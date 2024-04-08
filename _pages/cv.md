@@ -54,10 +54,10 @@ Grants
 
 Awards
 ======
-1. 2023: IGP 2023 Publication Award, Hokkaido University
+1. 2023: IGP 2023 Publication Award, Graduate School of Life Science, Hokkaido University
 1. 2023: Best presentation award, Research Meeting of Cell Biology at Hokkaido University in 2023, Hokkaido University
 1. 2022: The refund exemption offer for particularly outstanding performance, Japan Student Services Organization
-1. 2020: English Presentation Award (IGP Award), Hokkaido University
+1. 2020: English Presentation Award (IGP Award), master thesis defence in Graduate School of Life Science, Hokkaido University
 
 Scholarships
 ======
