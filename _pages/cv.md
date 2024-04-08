@@ -14,13 +14,13 @@ Updated at 2024/04/08
 Education
 ======
 - Since 2022: PhD in Life Science, in the group of Dr. Ryota Uehara at Hokkaido University, Japan.
-- 2020 - 2022: M.S. in Life Science, in the group of Dr. Ryota Uehara at Hokkaido University, Japan.
+- 2020 – 2022: M.S. in Life Science, in the group of Dr. Ryota Uehara at Hokkaido University, Japan.
 - September 2020: Summer Course in Sugashima Marine Biological Laboratory in the group of Dr. Gohta Goshima at Nagoya University, Japan.
-- 2016 - 2020: Diploma in Biology in the group of Dr. Ryota Uehara at Hokkaido University, Japan
+- 2016 – 2020: Diploma in Biology in the group of Dr. Ryota Uehara at Hokkaido University, Japan
 
 Work experience
 ======
-- 2021 - 2025: Research Assistant
+- 2021 – 2025: Research Assistant
   - Global Facility Centre, Hokkaido University
   - Duties includes: Manager of flow cytometer (FACSCanto) and cell sorter (JSAN destop cell sorter)
   - Supervisor: Dr. Ryuta Sasaki
@@ -54,12 +54,12 @@ Please see [Publication](/publications/).
 
 Grants
 ======
-1. 2022 - 2025: Hokkaido University-Hitachi Joint Cooperative Support Program for Education and Research, 種間比較解析と遺伝子編集技術を駆使した一倍体不安定性原理の究明と一倍体細胞技術の確立
+1. 2022 – 2025: Hokkaido University-Hitachi Joint Cooperative Support Program for Education and Research, 種間比較解析と遺伝子編集技術を駆使した一倍体不安定性原理の究明と一倍体細胞技術の確立
 1. 2021: The Sasakawa Scientific Research Grant, がん細胞の倍数性ダイナミクスを司る紡錘体構成因子の特定
 
 Scholarships
 ======
-1. 2022 - 2025: Hokkaido University-Hitachi Joint Cooperative Support Program for Education and Research
+1. 2022 – 2025: Hokkaido University-Hitachi Joint Cooperative Support Program for Education and Research
 
 Awards
 ======
