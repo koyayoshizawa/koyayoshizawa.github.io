@@ -8,9 +8,9 @@
 
 # Basic Site Settings
 locale                   : "en-UK"
-title                    : "Koya YOSHIZAWA's Page"
+title                    : "Koya Yoshizawa's Page"
 title_separator          : "-"
-name                     : &name "Koya YOSHIZAWA"
+name                     : &name "Koya Yoshizawa"
 description              : &description "Researcher about Cell Division"
 url                      : https://koyayoshizawa.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -22,7 +22,7 @@ repository               : "koyayoshizawa/koyayoshizawa.github.io"
 author:
   # Biographic information
   avatar           : "profile_yoshizawa.jpg"
-  name             : "Koya YOSHIZAWA"
+  name             : "Koya Yoshizawa"
   pronouns         : # example: "she/her"  
   bio              : "PhD student in the group of Ryota UEHARA."
   location         : "Sapporo, Japan"
@@ -64,7 +64,7 @@ author:
   steam            : # Username
   telegram         : # URL
   tumblr           : # Username
-  twitter          : @KoyaYoshizawa
+  twitter          : "@KoyaYoshizawa"
   vine             : # Username
   weibo            : # Username
   wikipedia        : # Username
