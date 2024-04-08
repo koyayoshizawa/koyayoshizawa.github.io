@@ -24,6 +24,9 @@ Work experience
   - Global Facility Centre, Hokkaido University
   - Duties includes: Manager of flow cytometer (FACSCanto) and cell sorter (JSAN destop cell sorter)
   - Supervisor: Dr. Ryuta Sasaki
+
+Teaching
+======
  
 Skills
 ======
@@ -45,7 +48,7 @@ Skills
 - Mathematical modelling
     - MATLAB
 
-Publications and Presentations
+Publications and talks
 ======
 Please see [Publication](/publications/).
 
@@ -54,19 +57,16 @@ Grants
 1. 2022 - 2025: Hokkaido University-Hitachi Joint Cooperative Support Program for Education and Research, 種間比較解析と遺伝子編集技術を駆使した一倍体不安定性原理の究明と一倍体細胞技術の確立
 1. 2021: The Sasakawa Scientific Research Grant, がん細胞の倍数性ダイナミクスを司る紡錘体構成因子の特定
 
+Scholarships
+======
+1. 2022 - 2025: Hokkaido University-Hitachi Joint Cooperative Support Program for Education and Research
+
 Awards
 ======
 1. 2023: IGP 2023 Publication Award, Graduate School of Life Science, Hokkaido University
 1. 2023: Best presentation award, Research Meeting of Cell Biology at Hokkaido University in 2023, Hokkaido University
 1. 2022: The refund exemption offer for particularly outstanding performance, Japan Student Services Organization
 1. 2020: English Presentation Award (IGP Award), master thesis defence in Graduate School of Life Science, Hokkaido University
-
-Scholarships
-======
-1. 2022 - 2025: Hokkaido University-Hitachi Joint Cooperative Support Program for Education and Research
-
-Teaching
-======
   
 Service and leadership
 ======
