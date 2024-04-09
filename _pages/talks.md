@@ -7,6 +7,7 @@ author_profile: true
 Updated at 2024/04/08.
 
 1. **Yoshizawa, K.** & Uehara, R. (2023, November), Haploidy-linked insufficiency of pericentriolar material (PCM) protein causes a genome instability in human somatic cells [Poster presentation]. The 61st Annual Meeting of the Biophysical Society of Japan, Nagoya, Japan.
+1. **Yoshizawa, K.** (2023 August), 遺伝的背景が同一のヒト多倍体がん細胞株シリーズにおける薬剤応答の不均一性 [Poster presentation]. The 1st Hokkaido Bio "Mix-up", Sapporo, Japan.
 1. **Yoshizawa, K.**, Matsura, A., Shimada, M., Ishida-Ishihara, S., Yamamoto, T., & Uehara, R. (2023, July), Ploidy-linked changes in dependency on mitotic motor proteins in human cell [Poster presentation]. The 49th Naito Conference on "Frontiers of Microtubule and Its-Related Motors: Atomic Structures, Cellular Functions, Development and Diseases", Sapporo, Japan.
 1. **Yoshizawa, K.** & Uehara, R. (2023, June), Establishing haploidy-stable human somatic cells by artificial reinforcement of acentrosomal pathway [Poster presentation]. The 75th Annual Meeting of the Japan Society for Cell Biology, Nara, Japan.
 1. **Yoshizawa, K.**, Shimada, M., Ishida-Ishihara, S., Yamamoto, T., & Uehara, R. (2023, March), Tetraploidy-linked sensitization to CENP-E inhibition in human cells [Oral presentation]. Research Meeting of Cell Biology at Hokkaido University 2023, Sapporo, Japan.
