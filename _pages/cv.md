@@ -13,10 +13,10 @@ Updated at 2024/04/08.
 
 Education
 ======
-- Since 2022: PhD in Life Science, in the group of Dr. Ryota Uehara at Hokkaido University, Japan.
+- 2022 to present: Ph.D in Life Science, in the group of Dr. Ryota Uehara at Hokkaido University, Japan.
 - 2020 – 2022: M.S. in Life Science, in the group of Dr. Ryota Uehara at Hokkaido University, Japan.
-- September 2020: Summer Course in Sugashima Marine Biological Laboratory in the group of Dr. Gohta Goshima at Nagoya University, Japan.
-- 2016 – 2020: Diploma in Biology in the group of Dr. Ryota Uehara at Hokkaido University, Japan
+- 2020 September: Summer Course in Sugashima Marine Biological Laboratory, in the group of Dr. Gohta Goshima at Nagoya University, Japan.
+- 2016 – 2020: B.S. in Biology, in the group of Dr. Ryota Uehara at Hokkaido University, Japan
 
 Work experience
 ======
