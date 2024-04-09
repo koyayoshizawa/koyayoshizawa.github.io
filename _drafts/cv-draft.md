@@ -14,4 +14,4 @@ News
 ======
 
 1. [Medical Tribute | 染色体運動ががんの治療標的に モーター蛋白質CENP-Eを阻害 (2023 Feburary)](https://medical-tribune.co.jp/news/2023/0203555509/)
-1. [北海道大、ゲノム DNA量に応じた選択的な細胞増殖抑制を実現～新たながん細胞抑制法の確立に向けた重要な一歩～ (2023 January)](https://bio.nikkeibp.co.jp/atcl/release/23/01/27/15683/)
+1. [Nikkei Biotechnology & Business | 北海道大、ゲノム DNA量に応じた選択的な細胞増殖抑制を実現～新たながん細胞抑制法の確立に向けた重要な一歩～ (2023 January)](https://bio.nikkeibp.co.jp/atcl/release/23/01/27/15683/)
