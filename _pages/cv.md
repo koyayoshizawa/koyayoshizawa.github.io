@@ -49,7 +49,7 @@ Grants
 
 Scholarships
 ======
-1. 2022 – 2025: Hokkaido University-Hitachi Joint Cooperative Support Program for Education and Research
+1. 2022 – 2025: Hokkaido University-Hitachi Joint Cooperative Support Program for Education and Research. [Link](https://sites.google.com/elms.hokudai.ac.jp/hokudai-hitachi)
 
 Awards
 ======
