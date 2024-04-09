@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-You can also find my articles at my [Google Scholar](https://scholar.google.com/citations?user=TYDv97QAAAAJ&hl=en).
+You can also find my articles at [Google Scholar](https://scholar.google.com/citations?user=TYDv97QAAAAJ&hl=en) and [PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=Koya+Yoshizawa&sort=date).
 
 Updated at 2024/04/08.
 <!-- Citation style is APA, fetched from Paperpile -->
