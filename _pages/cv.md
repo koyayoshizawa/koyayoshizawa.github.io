@@ -9,55 +9,53 @@ redirect_from:
 
 {% include base_path %}
 
-Updated at 2024/04/08.
+Updated at 2024/04/11.
 
 Education
 ======
-- 2022 to present: Ph.D in Life Science, in the group of Dr. Ryota Uehara at Hokkaido University, Japan.
+- 2022 – 2025 (expected): Ph.D in Life Science, in the group of Dr. Ryota Uehara at Hokkaido University, Japan.
 - 2020 – 2022: M.S. in Life Science, in the group of Dr. Ryota Uehara at Hokkaido University, Japan.
 - 2020 September: Summer Course in Sugashima Marine Biological Laboratory, in the group of Dr. Gohta Goshima at Nagoya University, Japan.
 - 2016 – 2020: B.S. in Biology, in the group of Dr. Ryota Uehara at Hokkaido University, Japan
-
-Work experience
-======
-- 2021 – 2025: Research Assistant
-  - Global Facility Centre, Hokkaido University
-  - Duties includes: Manager of flow cytometer (FACSCanto) and cell sorter (JSAN destop cell sorter)
-  - Supervisor: Dr. Ryuta Sasaki
-
-Teaching
-======
  
 Skills
 ======
 - Cell biology (basic cell culture, immunofluorescence, flow cytometry)
 - Bioengineering (electroporation, chemical transfection, CRISPR-Cas9 (knockin, transcriptional activation))
 - Biochemistry (western blotting, immunoprecipitation)
-- DNA work (basic plasmid cloning, PCR)
+- DNA work (basic plasmid work, PCR)
 - Programming (R, python, fortran, Git/GitHub, LaTeX)
 - Statistics
 - Mathematical modelling (MATLAB)
 
-Publications and talks
+Work experience
 ======
-Please see [Publication](/publications/) and [Talks](/talks/).
+- 2021 – 2025: Research Assistant
+  - Global Facility Center, Hokkaido University
+  - Duties includes: Manager of flow cytometer and cell sorter
+  - Supervisor: Dr. Ryuta Sasaki
 
-Grants
+Teaching
 ======
-1. 2022 – 2025: Hokkaido University-Hitachi Joint Cooperative Support Program for Education and Research, 種間比較解析と遺伝子編集技術を駆使した一倍体不安定性原理の究明と一倍体細胞技術の確立
-1. 2021: The Sasakawa Scientific Research Grant, がん細胞の倍数性ダイナミクスを司る紡錘体構成因子の特定
+Please wait for update.
 
-Scholarships
-======
-1. 2022 – 2025: Hokkaido University-Hitachi Joint Cooperative Support Program for Education and Research. [Link](https://sites.google.com/elms.hokudai.ac.jp/hokudai-hitachi)
-
-Awards
+Fellowships and awards
 ======
 1. 2023: IGP 2023 Publication Award, Graduate School of Life Science, Hokkaido University
 1. 2023: Best presentation award, Research Meeting of Cell Biology at Hokkaido University in 2023, Hokkaido University
 1. 2022: The refund exemption offer for particularly outstanding performance, Japan Student Services Organization
 1. 2020: English Presentation Award (IGP Award), master thesis defence in Graduate School of Life Science, Hokkaido University
-  
-Service and leadership
+
+Grants and scholarships
 ======
-1. November 2019: Staff in Quantitative Biology Society Hokkaido Caravan 2019, Sapporo, Japan.
+1. 2022 – 2025: Hokkaido University-Hitachi Joint Cooperative Support Program for Education and Research. "Investigation of the principle of haploid instability and establishment of stable haploid cell using interspecies comparative analysis and gene editing." [Link](https://sites.google.com/elms.hokudai.ac.jp/hokudai-hitachi)
+1. 2021: The Sasakawa Scientific Research Grant. "Identification of mitotic spindle factors that control ploidy dynamics in cancer cells.'
+
+Memberships in scientific societies
+======
+1. 2021 – present: Japan Society for Cell Biology
+1. 2021 – present: Molecular Biology Society of Japan
+
+Publications and talks
+======
+Please see [Publication](/publications/) and [Talks](/talks/).
