@@ -24,7 +24,7 @@ Skills
 - Bioengineering (electroporation, chemical transfection, CRISPR-Cas9 (knockin, transcriptional activation))
 - Biochemistry (western blotting, immunoprecipitation)
 - DNA work (basic plasmid work, PCR)
-- Programming (R, python, fortran, Git/GitHub, LaTeX)
+- Programming (R, python, Git/GitHub, LaTeX)
 - Statistics
 - Mathematical modelling (MATLAB)
 
@@ -44,7 +44,7 @@ Grants, fellowships and awards
 1. 2023: IGP 2023 Publication Award. Graduate School of Life Science, Hokkaido University.
 1. 2023: Best presentation award. Research Meeting of Cell Biology at Hokkaido University in 2023, Hokkaido University.
 1. 2022 – 2025: Hokkaido University-Hitachi Joint Cooperative Support Program for Education and Research. "Investigation of the principle of haploid instability and establishment of stable haploid cell using interspecies comparative analysis and gene editing." [Link](https://sites.google.com/elms.hokudai.ac.jp/hokudai-hitachi)
-1. 2022: The refund exemption offer for particularly outstanding performance. Japan Student Services Organization.
+1. 2022: The refund exemption offer for particularly outstanding performance. Japan Student Services Organization. Fully exempted.
 1. 2021: The Sasakawa Scientific Research Grant. "Identification of mitotic spindle factors that control ploidy dynamics in cancer cells.'
 1. 2020: English Presentation Award (IGP Award). Master thesis defence in Graduate School of Life Science, Hokkaido University.
 
