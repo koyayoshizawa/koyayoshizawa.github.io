@@ -42,7 +42,7 @@ Please wait for update.
 Grants, fellowships and awards
 ======
 1. 2023: IGP 2023 Publication Award. Graduate School of Life Science, Hokkaido University.
-2. 2023: Hamamatsu Photonics Award (Best Discusser Award), The 9th Young Meeting for Cell Biology, Nara, Japan.
+2. 2023: Hamamatsu Photonics Award (Best Discusser Award), The 9th Annual Meeting of Young Researchers in the Japan Society for Cell Biology, Nara, Japan.
 3. 2023: Best presentation award. Research Meeting of Cell Biology at Hokkaido University in 2023, Hokkaido University.
 4. 2022 – 2025: Hokkaido University-Hitachi Joint Cooperative Support Program for Education and Research. "Investigation of the principle of haploid instability and establishment of stable haploid cell using interspecies comparative analysis and gene editing." [Link](https://sites.google.com/elms.hokudai.ac.jp/hokudai-hitachi)
 5. 2022: The refund exemption offer for particularly outstanding performance. Japan Student Services Organization. Fully exempted.
