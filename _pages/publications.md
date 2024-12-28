@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-You can find my articles at [Google Scholar](https://scholar.google.com/citations?user=TYDv97QAAAAJ&hl=en) and [PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=Koya+Yoshizawa&sort=date).
+Link to [Google Scholar](https://scholar.google.com/citations?user=TYDv97QAAAAJ&hl=en) and [PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=Koya+Yoshizawa&sort=date).
 
 Updated on Dec 2024. \
 (# Equal contribution)
