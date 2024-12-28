@@ -44,7 +44,7 @@ Fellowships and Grants
 ======
 1. 2022 – 2025: Hokkaido University-Hitachi Joint Cooperative Support Program for Education and Research.
     - "Investigation of the principle of haploid instability and establishment of stable haploid cell using interspecies comparative analysis and gene editing."
-    - JPY 8,400,000 as a research fund, and JPY 3,600,000 as a living fee.
+    - JPY 8,400,000 as a research fund, and JPY 7,200,000 as a living fee.
 1. 2021: The Sasakawa Scientific Research Grant.
     - "Identification of mitotic spindle factors that control ploidy dynamics in cancer cells."
     - JPY 640,000 
