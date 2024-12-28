@@ -7,7 +7,7 @@ author_profile: true
 
 You can find my articles at [Google Scholar](https://scholar.google.com/citations?user=TYDv97QAAAAJ&hl=en) and [PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=Koya+Yoshizawa&sort=date).
 
-Updated on 4 Dec 2024. \
+Updated on Dec 2024. \
 (# Equal contribution)
 <!-- Citation style is APA, fetched from Paperpile -->
 <!-- Add doi in the last part. -->
