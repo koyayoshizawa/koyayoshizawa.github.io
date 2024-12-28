@@ -9,15 +9,15 @@ redirect_from:
 
 {% include base_path %}
 
-Updated at 28 Oct 2024.
+Updated on Oct 2024.
 
 Education
 ======
-- 2022 – Mar 2025 (expected): Ph.D in Life Science, in the group of Dr. Ryota Uehara at Hokkaido University, Japan.
+- 2022 – Mar 2025 (expected): PhD in Life Science, in the group of Dr. Ryota Uehara at Hokkaido University, Japan.
 - July 2024 – Nov 2024: Visiting scholar in High-Throughput Molecular Genetics Core at Mechanobiology Institute in National University of Singapore, Singapore.
-- 2020 – 2022: M.S. in Life Science, in the group of Dr. Ryota Uehara at Hokkaido University, Japan.
+- 2020 – 2022: MS in Life Science, in the group of Dr. Ryota Uehara at Hokkaido University, Japan.
 - Sep 2020: Summer Course in Sugashima Marine Biological Laboratory, in the group of Dr. Gohta Goshima at Nagoya University, Japan.
-- 2016 – 2020: B.S. in Biology, in the group of Dr. Ryota Uehara at Hokkaido University, Japan
+- 2016 – 2020: BS in Biology, in the group of Dr. Ryota Uehara at Hokkaido University, Japan
  
 Skills
 ======
