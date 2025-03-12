@@ -16,3 +16,5 @@ Current research interests: \
 intracellular phenomenon, ploidy (both haploid and polyploid), and mitotic spindle
 
 Link to Ryota Uehara lab: https://altair.sci.hokudai.ac.jp/uehara_lab/
+
+![](/images/confocal_image.png)
