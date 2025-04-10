@@ -9,15 +9,19 @@ redirect_from:
 
 {% include base_path %}
 
-Updated on Oct 2024.
+Updated on Apr 2025.
+
+Professional experience
+======
+- Apr 2022 – present: Postdoctoral fellow in the laboratory of Ryota Uehara at Hokkaido University, Japan.
+- July 2024 – Nov 2024: Visiting scholar in High-Throughput Molecular Genetics Core (group leader: Jin Zhu) at Mechanobiology Institute in National University of Singapore, Singapore.
 
 Education
 ======
-- 2022 – Mar 2025 (expected): PhD in Life Science, in the group of Dr. Ryota Uehara at Hokkaido University, Japan.
-- July 2024 – Nov 2024: Visiting scholar in High-Throughput Molecular Genetics Core at Mechanobiology Institute in National University of Singapore, Singapore.
-- 2020 – 2022: MS in Life Science, in the group of Dr. Ryota Uehara at Hokkaido University, Japan.
-- Sep 2020: Summer Course in Sugashima Marine Biological Laboratory, in the group of Dr. Gohta Goshima at Nagoya University, Japan.
-- 2016 – 2020: BS in Biology, in the group of Dr. Ryota Uehara at Hokkaido University, Japan
+- 2022 – Mar 2025: PhD in Life Science, in the group of Ryota Uehara at Hokkaido University, Japan.
+- 2020 – 2022: MS in Life Science, in the group of Ryota Uehara at Hokkaido University, Japan.
+- Sep 2020: Summer Course in Sugashima Marine Biological Laboratory, in the group of Gohta Goshima at Nagoya University, Japan.
+- 2016 – 2020: BS in Biology, in the group of Ryota Uehara at Hokkaido University, Japan
  
 Skills
 ======
@@ -25,7 +29,8 @@ Skills
 - Bioengineering (electroporation, chemical transfection, CRISPR-Cas9 (knockin, transcriptional activation))
 - Biochemistry (western blotting, immunoprecipitation)
 - DNA work (basic plasmid work, PCR)
-- Programming (R, python, Git/GitHub, LaTeX)
+- Programming (R, python)
+- Computational operation (Linux, git, LaTeX)
 - Statistics
 - Mathematical modelling (MATLAB)
 
