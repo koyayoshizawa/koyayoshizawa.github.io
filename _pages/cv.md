@@ -13,7 +13,7 @@ Updated on Apr 2025.
 
 Professional experience
 ======
-- Apr 2022 – present: Postdoctoral fellow in the laboratory of Ryota Uehara at Hokkaido University, Japan.
+- Apr 2024 – present: Postdoctoral fellow in the laboratory of Ryota Uehara at Hokkaido University, Japan.
 - July 2024 – Nov 2024: Visiting scholar in High-Throughput Molecular Genetics Core (group leader: Jin Zhu) at Mechanobiology Institute in National University of Singapore, Singapore.
 
 Education
