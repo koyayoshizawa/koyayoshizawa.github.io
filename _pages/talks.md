@@ -4,9 +4,10 @@ title: "Talks and presentations"
 permalink: /talks/
 author_profile: true
 ---
-Updated on Apr 2024.
+Updated on Jul 2025.
 
-1. <ins>Yoshizawa, K.</ins> & Uehara, R. (Nov 2023). Haploidy-linked insufficiency of pericentriolar material (PCM) protein causes a genome instability in human somatic cells [Poster presentation]. The 61st Annual Meeting of the Biophysical Society of Japan, Nagoya, Japan.
+1. <ins> Yoshizawa, K.</ins>, Zhu, J., & Uehara, R. (Jul 2025). Towards understanding the causes of haploidy-linked failure in bipolar spindle assembly [Oral and poster presentation]. The 4th Research Meeting of Cell Division, Mishima, Japan.
+2. <ins>Yoshizawa, K.</ins> & Uehara, R. (Nov 2023). Haploidy-linked insufficiency of pericentriolar material (PCM) protein causes a genome instability in human somatic cells [Poster presentation]. The 61st Annual Meeting of the Biophysical Society of Japan, Nagoya, Japan.
 1. <ins>Yoshizawa, K.</ins> (Aug 2023), Heterogeneity of drug response in a series of isogenic human tetraploid cancer cell lines [Poster presentation]. The 1st Hokkaido Bio "Mix-up", Sapporo, Japan.
 1. <ins>Yoshizawa, K.</ins>, Matsura, A., Shimada, M., Ishida-Ishihara, S., Yamamoto, T., & Uehara, R. (Jul 2023). Ploidy-linked changes in dependency on mitotic motor proteins in human cell [Poster presentation]. The 49th Naito Conference on "Frontiers of Microtubule and Its-Related Motors: Atomic Structures, Cellular Functions, Development and Diseases", Sapporo, Japan.
 1. <ins>Yoshizawa, K.</ins> & Uehara, R. (Jun 2023). Establishing haploidy-stable human somatic cells by artificial reinforcement of acentrosomal pathway [Poster presentation]. The 75th Annual Meeting of the Japan Society for Cell Biology, Nara, Japan.
