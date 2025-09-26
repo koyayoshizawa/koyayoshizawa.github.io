@@ -56,11 +56,13 @@ Fellowships and Grants
 
 Awards
 ======
+5. 2025: The refund exemption offer for particularly outstanding performance. Japan Student Services Organization.
+    - Half exemption (JPY 1,440,000).
 1. 2023: IGP 2023 Publication Award. Graduate School of Life Science, Hokkaido University.
 2. 2023: Hamamatsu Photonics Award (Best Discusser Award), The 9th Annual Meeting of Young Researchers in the Japan Society for Cell Biology, Nara, Japan.
 3. 2023: Best presentation award. Research Meeting of Cell Biology at Hokkaido University in 2023, Hokkaido University.
 5. 2022: The refund exemption offer for particularly outstanding performance. Japan Student Services Organization.
-    - Full exemption for JPY 1,200,000
+    - Full exemption (JPY 1,200,000).
 7. 2020: English Presentation Award (IGP Award). Master thesis defence in Graduate School of Life Science, Hokkaido University.
 
 Memberships in scientific societies
