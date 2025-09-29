@@ -7,7 +7,7 @@ author_profile: true
 
 Link to [Google Scholar](https://scholar.google.com/citations?user=TYDv97QAAAAJ&hl=en) and [PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=Koya+Yoshizawa&sort=date).
 
-Updated on Dec 2024. \
+Updated on Sep 2025. \
 (* Equal contribution)
 <!-- Citation style is APA, fetched from Paperpile -->
 <!-- Add doi in the last part. -->
