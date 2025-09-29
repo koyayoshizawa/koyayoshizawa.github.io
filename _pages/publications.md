@@ -21,7 +21,7 @@ Updated on Dec 2024. \
 1. Yaguchi, K., Sato, K., <ins>Yoshizawa, K.</ins>, Mikami, D., Yuyama, K., Igarashi, Y., Banhegyi, G., Margittai, E., & Uehara, R. (2021). Mevalonate Pathway-mediated ER Homeostasis Is Required for Haploid Stability in Human Somatic Cells. _**Cell Structure and Function**_, 46(1), 1–9. [Link](https://doi.org/10.1247/csf.20055)
 1. <ins>Yoshizawa, K.</ins>, Yaguchi, K., & Uehara, R. (2020). Uncoupling of DNA Replication and Centrosome Duplication Cycles Is a Primary Cause of Haploid Instability in Mammalian Somatic Cells. _**Frontiers in Cell and Developmental Biology**_, 8, 721. [Link](https://doi.org/10.3389/fcell.2020.00721)
 
-## Method Papers
+## Method Articles
 
 1. <ins>Yoshizawa, K.</ins> and Uehara, R. (2025). Comparative Pharmacological Analysis of Mitotic Inhibitors Using Isogenic Ploidy Series of HAP1 Cells. _**Methods in Molecular Biology**_, 2872, 207-219. [Link](https://doi.org/10.1007/978-1-0716-4224-5_14)
 
