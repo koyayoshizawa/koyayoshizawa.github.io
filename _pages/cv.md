@@ -10,6 +10,7 @@ redirect_from:
 {% include base_path %}
 
 Updated on Apr 2025.
+
 ![The CV is available for download here.](/files/CV_KoyaYoshizawa.pdf)
 
 
