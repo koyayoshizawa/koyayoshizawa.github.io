@@ -11,7 +11,7 @@ redirect_from:
 
 Updated on Apr 2025.
 
-<a href="/files/CV_KoyaYoshizawa.pdf" download>Download CV</a>
+<a href="/files/CV_KoyaYoshizawa.pdf" download target="_blank">Download CV</a>
 
 
 
