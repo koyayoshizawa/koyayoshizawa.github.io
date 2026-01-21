@@ -11,7 +11,8 @@ redirect_from:
 
 Updated on Apr 2025.
 
-![The CV is available for download here.](/files/CV_KoyaYoshizawa.pdf)
+<a href="/files/CV_KoyaYoshizawa.pdf" download>Download CV</a>
+
 
 
 Professional experience
