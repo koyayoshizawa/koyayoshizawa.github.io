@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-Link to [Google Scholar](https://scholar.google.com/citations?user=TYDv97QAAAAJ&hl=en) and [PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=Koya+Yoshizawa&sort=date).
+Link to <a href="https://scholar.google.com/citations?user=TYDv97QAAAAJ&hl=en" target="_blank">Google Scholar</a> and <a href="https://pubmed.ncbi.nlm.nih.gov/?term=Koya+Yoshizawa&sort=date" target="_blank">PubMed</a>
 
 Updated on Sep 2025. \
 (* Equal contribution)
