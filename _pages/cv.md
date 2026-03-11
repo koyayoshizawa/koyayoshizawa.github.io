@@ -17,15 +17,7 @@ Updated on Apr 2025.
 
 Research experience
 ======
-- Apr 2025 – present: Postdoctoral fellow in the laboratory of Ryota Uehara at Hokkaido University, Japan.
-- July 2024 – Nov 2024: Visiting scholar in High-Throughput Molecular Genetics Core (group leader: Jin Zhu) at Mechanobiology Institute in National University of Singapore, Singapore.
-- 2021 – 2025: Research Assistant
-  - Global Facility Center, Hokkaido University
-  - Duties includes: Assitant for the use of flow cytometer and cell sorter
-  - Supervisor: Dr. Ryuta Sasaki
-- Sep 2020: Summer Course in Sugashima Marine Biological Laboratory, in the group of Gohta Goshima at Nagoya University, Japan.
-
-- 2025–Present	Postdoctoral fellow, Faculty of Advanced Life Science, Hokkaido University.
+- 2025–Present	Postdoctoral fellow, Faculty of Advanced Life Science, Hokkaido University, Japan.
   - Mentor: Ryota Uehara
 - Jul–Nov, 2024	Visiting scholar at Mechanobiology Institute, National University of Singapore, Singapore
   - Supervisor: Jin Zhu
