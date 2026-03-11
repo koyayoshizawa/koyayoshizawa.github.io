@@ -15,16 +15,29 @@ Updated on Apr 2025.
 
 
 
-Professional experience
+Research experience
 ======
 - Apr 2025 – present: Postdoctoral fellow in the laboratory of Ryota Uehara at Hokkaido University, Japan.
 - July 2024 – Nov 2024: Visiting scholar in High-Throughput Molecular Genetics Core (group leader: Jin Zhu) at Mechanobiology Institute in National University of Singapore, Singapore.
+- 2021 – 2025: Research Assistant
+  - Global Facility Center, Hokkaido University
+  - Duties includes: Assitant for the use of flow cytometer and cell sorter
+  - Supervisor: Dr. Ryuta Sasaki
+- Sep 2020: Summer Course in Sugashima Marine Biological Laboratory, in the group of Gohta Goshima at Nagoya University, Japan.
+
+- 2025–Present	Postdoctoral fellow, Faculty of Advanced Life Science, Hokkaido University.
+  - Mentor: Ryota Uehara
+- Jul–Nov, 2024	Visiting scholar at Mechanobiology Institute, National University of Singapore, Singapore
+  - Supervisor: Jin Zhu
+- 2021–2024	Research assistant at Global Facility Center, Hokkaido University, Japan
+  - Duty: assistant manager of flow cytometer and cell sorter
+- Sep, 2020	Intern student at Summer Course in Sugashima Marine Biological Laboratory, Nagoya University, Japan
+  - Supervisor: Gohta Goshima
 
 Education
 ======
 - 2022 – Mar 2025: PhD in Life Science, in the group of Ryota Uehara at Hokkaido University, Japan.
 - 2020 – 2022: MS in Life Science, in the group of Ryota Uehara at Hokkaido University, Japan.
-- Sep 2020: Summer Course in Sugashima Marine Biological Laboratory, in the group of Gohta Goshima at Nagoya University, Japan.
 - 2016 – 2020: BS in Biology, in the group of Ryota Uehara at Hokkaido University, Japan
  
 Skills
@@ -37,13 +50,6 @@ Skills
 - Computational operation (Linux, git, LaTeX)
 - Statistics
 - Mathematical modelling (MATLAB)
-
-Work experience
-======
-- 2021 – 2025: Research Assistant
-  - Global Facility Center, Hokkaido University
-  - Duties includes: Assitant for the use of flow cytometer and cell sorter
-  - Supervisor: Dr. Ryuta Sasaki
 
 Teaching
 ======
