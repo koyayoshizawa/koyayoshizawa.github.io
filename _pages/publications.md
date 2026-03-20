@@ -7,13 +7,14 @@ author_profile: true
 
 Link to <a href="https://scholar.google.com/citations?user=TYDv97QAAAAJ&hl=en" target="_blank">Google Scholar</a> and <a href="https://pubmed.ncbi.nlm.nih.gov/?term=Koya+Yoshizawa&sort=date" target="_blank">PubMed</a>
 
-Updated on Sep 2025. \
+Updated on March 2026. \
 (* Equal contribution)
 <!-- Citation style is APA, fetched from Paperpile -->
 <!-- Add doi in the last part. -->
 
-## Peer-reviewed Articles
+## Research Articles
 
+1. <ins>Yoshizawa, K.</ins>, Singh, H. R., Paramasivam, K., Zhu, J., Uehara, R. (2026). Cep192 insufficiency underlies haploid instability in human cells. _**bioRxiv**_, 2026.03.18.712690. [Link](https://www.biorxiv.org/content/10.64898/2026.03.18.712690v1)
 1. Ishida-Ishihara, S.\*, Yaguchi, K.\*, Miura, S.\*, Nomura, R., Wang, Q., <ins>Yoshizawa, K.</ins>, Sato, K., Yang, G., Veszelyi, K., Banhegyi, G., Margittai, E., & Uehara, R. (2024). Fragility of ER homeostatic regulation underlies haploid instability in human somatic cells. _**Journal of Biological Chemistry**_, 300(11), 107909. [Link](https://doi.org/10.1016/j.jbc.2024.107909)
 1. Sahu, S., <ins>Yoshizawa, K.</ins>, Yamamoto, T., Uehara, R., & Tamaoki, N. (2024). Photoswitchable Auxin-Inducible Degron System for Conditional Protein Degradation with Spatiotemporal Resolution. _**Journal of the American Chemical Society**_, 146(31), 21203–21207. [Link](https://doi.org/10.1021/jacs.4c05135)
 1. <ins>Yoshizawa, K.</ins>, Matsura, A., Shimada, M., Ishida‐Ishihara, S., Sato, F., Yamamoto, T., Yaguchi, K., Kawamoto, E., Kuroda, T., Matsuo, K., Tamaoki, N., Sakai, R., Shimada, Y., Mishra, M., & Uehara, R. (2023). Tetraploidy‐linked sensitization to CENP‐E inhibition in human cells. _**Molecular Oncology**_, 17(6), 1148–1166. [Link](https://doi.org/10.1002/1878-0261.13379)
