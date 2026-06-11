@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About"
+title: "Koya YOSHIZAWA / 吉澤 晃弥"
 author_profile: true
 redirect_from: 
   - /about/
@@ -8,10 +8,12 @@ redirect_from:
 ---
 {% include base_path %}
 
-This is the homepage of Koya YOSHIZAWA (吉澤 晃弥). \
-I am a postdoctoral fellow in the research group of Ryota UEHARA at Hokkaido University, Japan.
+Update: June 2026.
+
+Current affiliation: \
+Postdoctoral fellow in Ryota Uehara's group at Hokkaido University, Japan.
 
 Current research interests: \
-intracellular phenomenon, ploidy (both haploid and polyploid), mitotic spindle, centrosomes, microtubules, mitotic motors, and statistical analysis.
+Intracellular phenomenon, ploidy (both haploid and polyploid), mitotic spindle, centrosomes, microtubules, mitotic motors, and statistical analysis.
 
 <a href="/files/CV_KoyaYoshizawa.pdf" target="_blank">Download CV from here.</a> Updated at June 2026.
