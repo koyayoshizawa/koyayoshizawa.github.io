@@ -8,7 +8,7 @@ redirect_from:
 ---
 {% include base_path %}
 
-This is the homepage of Koya YOSHIZAWA. \
+This is the homepage of Koya YOSHIZAWA (吉澤 晃弥). \
 I am a postdoctoral fellow in the research group of Ryota UEHARA at Hokkaido University, Japan.
 
 Current research interests: \
