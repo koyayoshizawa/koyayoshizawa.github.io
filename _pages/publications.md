@@ -40,7 +40,7 @@ Updated on March 2026. \
    Comparative Pharmacological Analysis of Mitotic Inhibitors Using Isogenic Ploidy Series of HAP1 Cells. \
    _**Methods in Molecular Biology**_, 2872, 207-219. [Link](https://doi.org/10.1007/978-1-0716-4224-5_14)
 
-## Review
+## Reviews Articles
 
 1. <ins>Yoshizawa, K.</ins> and Uehara, R. (2025).\
    Alterations in mitotic regulations upon whole genome duplication.\
