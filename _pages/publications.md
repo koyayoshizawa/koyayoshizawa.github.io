@@ -42,6 +42,6 @@ Updated on March 2026. \
 
 ## Review
 
-1. <ins>吉澤晃弥</ins> & 上原亮太. \
-   ゲノム倍加と細胞分裂制御の変調.\
-   _**実験医学**_, 2025年10月号 Vol. 43 No. 16. [Link](https://www.yodosha.co.jp/jikkenigaku/articles/index.html?ci=614200)
+1. <ins>Yoshizawa, K.</ins> and Uehara, R. (2025).\
+   Alterations in mitotic regulations upon whole genome duplication.\
+   _**Experimental Medicine**_, Vol. 43 No. 16. [Link](https://www.yodosha.co.jp/jikkenigaku/articles/index.html?ci=614200)
