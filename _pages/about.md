@@ -8,12 +8,12 @@ redirect_from:
 ---
 {% include base_path %}
 
-Update: July 2026.
+Update: Oct 2026.
 
 Current affiliation: \
-Postdoctoral fellow in Ryota Uehara's group at Hokkaido University, Japan.
+Research Fellow in High-Throughput Molecular Genetics Core at Mechanobiology Institute, National University of Singapore.
 
 Current research interests: \
-Intracellular phenomenon, ploidy (both haploid and polyploid), mitotic spindle, centrosomes, microtubules, mitotic motors, and statistical analysis.
+TBA.
 
 <a href="/files/CV_KoyaYoshizawa.pdf" target="_blank">Download CV from here.</a> Updated in July 2026.
