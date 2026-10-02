@@ -11,7 +11,7 @@ locale                   : "en-UK"
 title                    : "Koya Yoshizawa's Page"
 title_separator          : "-"
 name                     : &name "Koya Yoshizawa"
-description              : &description "Researcher about Cell Division"
+description              : &description "Research Fellow"
 url                      : https://koyayoshizawa.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "koyayoshizawa/koyayoshizawa.github.io"
@@ -24,11 +24,11 @@ author:
   avatar           : "facephoto20241125.jpg"
   name             : "Koya Yoshizawa"
   pronouns         : # example: "she/her"  
-  bio              : "PostDoc"
-  location         : "Sapporo, Japan"
-  employer         : "Hokkaido University"
+  bio              : "Research Fellow"
+  location         : "Singapore"
+  employer         : "MBI, NUS"
   uri              : #url
-  email            : "kyoshizawa@sci.hokudai.ac.jp" 
+  email            : "kyoshizawa@nus.edu.sg" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
