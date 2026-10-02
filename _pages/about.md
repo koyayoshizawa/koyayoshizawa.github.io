@@ -8,7 +8,7 @@ redirect_from:
 ---
 {% include base_path %}
 
-Update: Oct 2026.
+Update in Octber 2026.
 
 Current affiliation: \
 Research Fellow in High-Throughput Molecular Genetics Core at Mechanobiology Institute, National University of Singapore.
@@ -16,4 +16,4 @@ Research Fellow in High-Throughput Molecular Genetics Core at Mechanobiology Ins
 Current research interests: \
 TBA.
 
-<a href="/files/CV_KoyaYoshizawa.pdf" target="_blank">Download CV from here.</a> Updated in July 2026.
+<a href="/files/CV_KoyaYoshizawa.pdf" target="_blank">Download CV from here.</a> Updated in October 2026.
